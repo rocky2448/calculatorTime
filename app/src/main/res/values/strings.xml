@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Калькулятор времени</string>
+    <string name="titleTV">Калькулятор времени</string>
+    <string name="buttonSummBTN">+</string>
+    <string name="buttonDiffBTN">-</string>
+    <string name="resultTV">Результат</string>
+    <string name="buttonResetBTN">Reset</string>
+    <string name="buttonExitBTN">Exit</string>
+</resources>
