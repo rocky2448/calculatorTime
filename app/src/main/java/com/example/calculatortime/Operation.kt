@@ -215,7 +215,6 @@ class Operation(private var first: String, private var second: String) {
             seconds = diff
             sumTime = diff.toString() + "s"
         }
-
-        return if (firstValue >= secondValue) sumTime else "Первое значение не может быть меньше второго"
+        return if (diff < 0) "Ошибка вычисления! Данные введены некорректно" else sumTime
     }
 }

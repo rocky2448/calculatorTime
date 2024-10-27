@@ -4,6 +4,6 @@
     <string name="buttonSummBTN">+</string>
     <string name="buttonDiffBTN">-</string>
     <string name="resultTV">Результат</string>
-    <string name="buttonResetBTN">Reset</string>
-    <string name="buttonExitBTN">Exit</string>
+    <string name="reset">Reset</string>
+    <string name="exit">Exit</string>
 </resources>

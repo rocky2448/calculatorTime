@@ -2,5 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="blue">#40C3FF</color>
+    <color name="backgroundMain">#CCFFCE</color>
+    <color name="toolbarColor">#006400</color>
+    <color name="buttonColor">#008000</color>
+    <color name="textOutput">#8B0000</color>
 </resources>
